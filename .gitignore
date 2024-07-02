@@ -1,0 +1,3 @@
+#Ignora la maquina virtual
+probadorenv/
+__pycache__\utils.cpython-311.pyc
